@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "Brick Game",
+  "subtitle": "Brick Game",
+  "description": "A very challenging game you need to stay focus",
+  "type": "web",
+  "launch_path": "/firstPagee.html",
+   "
+  },
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "developer": {
+    "name": "Marr",
+    "url": "none"
+    
+  },
+  "locales": {
+    "en-US": {
+      "name": "Brick Game",
+      "subtitle": "Brick Game",
+      "description": "A very challenging game you need to stay focus"
+    }
+  },
+
+  "default_locale": "en-US",
+  "fullscreen": "true"
+
+}
